@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karuthompson/ai-email-assistant/blob/main/email_ai_assistant.ipynb)
+
+
 # AI-Email-Assistant
 
 This project is a smart email assistant built in Google Colab using Python, Gmail API, and OpenAI GPT-3.5.
